@@ -49,6 +49,3 @@ A high-performance C++ options pricing engine implementing multiple valuation me
 - **Platform**: Cross-platform (tested on macOS ARM64, Linux, Windows)
 - **Dependencies**: Standard C++ library only
 
-## Installation
-
-### Clone and Build
